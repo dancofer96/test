@@ -1,4 +1,4 @@
-'''prints the message hello world b1'''
+'''prints the message hello world b2'''
 def main():
 	print('hello world')
 
